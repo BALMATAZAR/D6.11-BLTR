@@ -26,10 +26,7 @@
    - Логин: pws_admin
    - Пароль: sf_password 
    
-   
-   Добро пожаловать, pws_admin! <img src="/media/icon/settings.ico" alt>
-   Кликнув на pws_admin --> вход на админку
-   Кликнув на иконку <img src="/media/icon/settings.ico" alt> --> редактирование пользователя
+  
 
 
 
